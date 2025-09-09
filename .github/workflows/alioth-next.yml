@@ -9,12 +9,12 @@ on:
         required: false
       KERNEL_TREE:
         description: 'Kernel Tree'
-        default: 'https://github.com/ShubhamRai118/kernel_sm8250_2'
+        default: 'https://github.com/ShubhamRai118/kernel_sm8250_1'
         required: true
       KERNEL_TREE_BRANCH:
         description: 'Kernel Tree Branch'
         required: true
-        default: 'bpf'
+        default: 'next_main'
       CODENAME:
         description: 'Phone Codename'
         default: 'alioth'
