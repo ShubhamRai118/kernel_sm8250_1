@@ -21,7 +21,7 @@ on:
         required: true
       ANYKERNEL_URL:
         description: 'AnyKernel Url (leave blank if you dont want AnyKernel)'
-        default: 'https://github.com/ShubhamRai118/anykernel3-test'
+        default: 'https://github.com/ShubhamRai118/anykernel3-stock'
         required: false
       ANYKERNEL_BRANCH:
         description: 'AnyKernel Branch (defaults to codename)'
